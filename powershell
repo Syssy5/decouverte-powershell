@@ -1,0 +1,10 @@
+linux         Powershell
+
+cp            copy-item
+rm            clear-content 
+cd            find-item
+mkdir         new-content
+man           get-help
+history       get-history
+alias         set-alias
+cat          Get-content
