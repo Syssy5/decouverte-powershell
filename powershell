@@ -1,7 +1,7 @@
 linux         Powershell
 
-cp            copy-item
-rm            clear-content 
+cp            copy-item et move-item ( pour changer d'un repertoire à l'autre)
+rm            remove-content 
 cd            find-item
 
 ------------------------------------------------------------------------------------------------------
@@ -21,4 +21,4 @@ d-----        18/12/2023     16:00                temp
 man           get-help
 history       get-history
 alias         set-alias
-cat          Get-childItem
+cat          Get-childItem -path
